@@ -1,0 +1,18 @@
+INTEGER i,j ,nbrC,nbrM,nbrV; 
+STRING ch;
+begin 
+read(ch);
+nbrM:=1;
+nbrC:=0;
+nbrV:=0; 
+arr= ARRAY_OF CHAR[a,e,i,o,u,y]
+for i:=0 i<lenght(ch)
+
+if ch[i]=" " 
+nbrM =nbrM+1;
+end
+for j:=o j<lenght arr
+if ch(i)=arr[j]
+nbrV=nbrV+1;
+nbrC=lenght(ch);
+end
